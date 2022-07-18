@@ -1,0 +1,11 @@
+{
+  "name": "my-hostel",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "polymer serve"
+  },
+  "repository": "git@github.com:marksolutions/my-hostel.git",
+  "author": "Hiten Bhayani <hitenbhayani41@gmail.com>",
+  "license": "MIT"
+}
